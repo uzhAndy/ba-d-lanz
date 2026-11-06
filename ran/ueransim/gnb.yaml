@@ -1,0 +1,18 @@
+mcc: '999'
+mnc: '70'
+nci: '0x000000010'
+idLength: 32
+tac: 1
+
+linkIp: 192.168.134.129
+ngapIp: 192.168.134.129
+gtpIp: 192.168.134.129
+
+amfConfigs:
+  - address: 192.168.134.128
+    port: 38412
+
+slices:
+  - sst: 1
+
+ignoreStreamIds: true
