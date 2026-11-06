@@ -57,19 +57,7 @@ testbed/
 │           ├── stage15a_smf_sbi_flood.py
 │           └── stage15b_pfcp_flood.py
 └── logs/
-    ├── kernel_log.txt
-    ├── auditd_attacker_commands.txt
-    ├── open5gs/
-    │   ├── nrf.log
-    │   ├── amf.log
-    │   ├── smf.log
-    │   ├── upf.log
-    │   ├── ausf.log
-    │   ├── udm.log
-    │   ├── udr.log
-    │   └── pcf.log
-    └── pcap/
-        └── capture_*.pcap
+    ├── nixos-testbed-logs.zip
 
 ```
 ---
