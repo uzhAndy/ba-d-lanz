@@ -16,7 +16,7 @@ running NixOS, connected via an isolated VMware Workstation virtual network (VMn
 ---
 
 ## Repository Structure
-
+```text
 testbed/
 ├── README.md
 ├── sim/
@@ -71,7 +71,7 @@ testbed/
     └── pcap/
         └── capture_*.pcap
 
-
+```
 ---
 
 ## Locating Log Evidence — Four Logging Layers
