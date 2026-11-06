@@ -18,6 +18,7 @@ running NixOS, connected via an isolated VMware Workstation virtual network (VMn
 ## Repository Structure
 
 testbed/
+
 ├── README.md
 ├── sim/
 │   ├── configuration.nix
